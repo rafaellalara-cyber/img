@@ -11,7 +11,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #e8e8e8;
+  background: #f5cd1d;
 }
 
 
@@ -30,7 +30,7 @@ body {
   height: 200px;
   padding: 0;
   border: none;
-  border-radius: 10px;
+  border-radius: 100px;
 
 
   /* A transparência da imagem revela este fundo branco. */
